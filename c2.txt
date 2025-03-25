@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 I'm sunny
+=======
+hello
+hi 
+>>>>>>> 1785acd (c2 file is added)
